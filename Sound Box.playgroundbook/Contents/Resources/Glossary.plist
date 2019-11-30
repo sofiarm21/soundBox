@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>restitution</key>
+		<dict>
+			<key>Definition</key>
+			<string>The bounciness of the physics body. This property is used to determine how much energy the physics body loses when it bounces off another object. The property must be a value between 0.0 and 1.0.</string>
+		</dict>
+		<key>dy</key>
+		<dict>
+			<key>Definition</key>
+			<string>The vertical value of the force of gravity in a pair of coordinates</string>
+		</dict>
+		<key>dx</key>
+		<dict>
+			<key>Definition</key>
+			<string>The horizontal value of the force of gravity in a pair of coordinates</string>
+		</dict>
+		<key>coordinate</key>
+		<dict>
+			<key>Definition</key>
+			<string>Coordinates are a set of values that show an exact position.</string>
+		</dict>
+		<key>gravitationalForce</key>
+		<dict>
+			<key>Definition</key>
+			<string>the force of attraction between all masses in the universe; especially the attraction of the earth&apos;s mass for bodies near its surface</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

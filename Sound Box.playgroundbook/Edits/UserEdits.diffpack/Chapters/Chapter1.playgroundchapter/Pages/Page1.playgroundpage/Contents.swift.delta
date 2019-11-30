@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{6535, 0}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##</string>
+			<key>OriginalRange</key>
+			<string>{6535, 5}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>5</string>
+			<key>ModifiedRange</key>
+			<string>{6536, 1}</string>
+			<key>OriginalContent</key>
+			<string>10##Int#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{6541, 9}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>0</string>
+			<key>ModifiedRange</key>
+			<string>{6720, 1}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##1##CGFloat#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{6733, 17}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>0.5</string>
+			<key>ModifiedRange</key>
+			<string>{6786, 3}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##1##CGFloat#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{6815, 17}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>0.8</string>
+			<key>ModifiedRange</key>
+			<string>{6856, 3}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##1##CGFloat#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{6899, 17}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{6926, 0}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##</string>
+			<key>OriginalRange</key>
+			<string>{6983, 5}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{6927, 0}</string>
+			<key>OriginalContent</key>
+			<string>##CGFloat#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{6989, 11}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/Page1.playgroundpage/Contents.swift</string>
+</dict>
+</plist>
